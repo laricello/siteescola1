@@ -1,0 +1,15 @@
+.cabecalho {background-color: rgba(102, 6, 105, 0.76);
+color: rgb(0, 0, 0); display: flex; justify-content: space-around; padding: 24px 0; font-size: 24px;}
+.cabecalho-lista-item *{display: inline-block; margin: 0 16px; padding: 24px 0;}
+.cabecalho-imagem{width: 20%;}
+.imagem-1-do-texo{width:20%;}
+.Escola {background-image: linear-gradient(#5e0326,#a30c64); color: rgb(0, 0, 0);
+     display:flex; justify-content: center; align-items: center; padding: 24px 0;}
+.Escola-conteudo{width: 35%; padding: 24px 0;}
+.Aluno1{width: 120px;}
+.estudante-icone{width: 24px;}
+.estudante-div{text-align: center;}
+.Estudante-titulo{text-align: center; padding: 50px 0;}
+.estudante-todos{display: grid;grid-template-columns: 20% 20% 20% 20%;}
+footer{background-color: #85017e; padding: 15px 0; text-align: center;}
+.rodapé{width: 10%;}
